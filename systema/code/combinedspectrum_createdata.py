@@ -21,7 +21,7 @@ k3 = 0.86
 
 #define the grid
 numpoints = 61
-a1s = np.linspace( -np.pi, np.pi, numpoints)
+a1s = np.linspace( -np.pi, np.pi, numpoints)    
 a2s = np.linspace( -np.pi, np.pi, numpoints)
 
 #%%
